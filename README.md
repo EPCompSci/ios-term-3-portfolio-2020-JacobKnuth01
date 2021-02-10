@@ -22,4 +22,6 @@ My apps so far:
   
   This app scrapes ebay for prices, so one can know the market price of an item: https://github.com/JacobKnuth01/Ebay
   
+  This project has 2 files, rat and ratClient. RatClient goes on a computer and will send a screen feed and a webcam feed over to rat. It also has the ability for rat to use the mouse of ratClient. This is still in the very early stages and need lots of work. https://github.com/JacobKnuth01/Rat
+  
     
